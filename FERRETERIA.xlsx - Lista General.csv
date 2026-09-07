@@ -1,204 +1,45 @@
-LÍNEA,SUBLÍNEA,IMAGEN,DESCRIPCIÓN ,MARCA,STOCK,INICIAL,%,PRECIO DE LISTA,PRECIO DE CONTADO,CÓDIGO,PROV.,DIF,FECHA,,%
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/FHdbqdrG/page-1.png,CERÁMICO 324 x 324 mm (15m2 P8) - beige claro y gris,GEN,15,"$12,000.00",1,"$14,900","$12,000",324324bg,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/5t8B4hF8/page-2.png,CERÁMICO 326 x 326 mm (4m2 P8) - OUTLET - gris claro y gris oscuro,GEN,4,"$10,000.00",1,"$12,400","$10,000",326326gg,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/CKbGh3f8/page-3.png,CERÁMICO 326 x 326 mm (12m2 P8) - beige claro y marrón,GEN,12,"$12,000.00",1,"$14,900","$12,000",326326bm,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/NMY15d1R/page-4.png,CERÁMICO 325 x 325 mm (8m2 P8) - OUTLET - marrón rojizo y gris,GEN,8,"$10,000.00",1,"$12,400","$10,000",325325mg,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/ZRc636cw/page-5.png,CERÁMICO 325 x 325 mm (8.5m2 P8) - OUTLET - gris verdoso y gris,GEN,8.5,"$10,000.00",1,"$12,400","$10,000",325325vg,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/SRxCGj1L/page-6.png,CERÁMICO 325 x 325 mm (2.2m2 P8) - OUTLET - escala de grises,GEN,2.2,"$10,000.00",1,"$12,400","$10,000",325325eg,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/wM4J4Hny/page-7.png,CERÁMICO 358 x 358 mm (14.5m2 P8) - simil adoquines,GEN,14.5,"$12,000.00",1,"$14,900","$12,000",358358sa,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/6qpnhTbL/page-8.png,CERÁMICO 326 x 326 mm (4m2 P8) - OUTLET - durazno oscuro,GEN,4,"$10,000.00",1,"$12,400","$10,000",326326do,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/rsZWZc7S/page-9.png,CERÁMICO 325 x 325 mm (2m2 P8) - OUTLET - beige claro y marrón claro,GEN,2,"$10,000.00",1,"$12,400","$10,000",325325bm,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/xj6K1yqX/page-10.png,CERÁMICO 326 x 326 mm (4m2 P8) - OUTLET - gris melange,GEN,4,"$10,000.00",1,"$12,400","$10,000",326326gm,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/8cXWXDxK/page-11.png,CERÁMICO 315 x 315 mm (9m2 P8) - OUTLET - beige claro y blanco,GEN,9,"$10,000.00",1,"$12,400","$10,000",315315bb,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/j2cZhLH9/page-12.png,CERÁMICO 658 x 328 mm (17.5m2 P7) - rosado pálido y marrón claro,GEN,17.5,"$12,000.00",1,"$14,900","$12,000",658328rm,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/hj9CfCfz/page-13.png,CERÁMICO 364 x 364 mm (19m2 P7) - gris claro y blanco,GEN,19,"$12,000.00",1,"$14,900","$12,000",364364gb,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/8c4tbjdg/page-14.png,CERÁMICO 364 x 364 mm (13.5m2 P7) - beige claro melange,GEN,13.5,"$12,000.00",1,"$14,900","$12,000",364364bm,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/MZmPwrCV/page-15.png,CERÁMICO 362 x 362 mm (13.5m2 P7) - escala de grises,GEN,13.5,"$12,000.00",1,"$14,900","$12,000",362362eg,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/d3649L24/page-16.png,CERÁMICO 363 x 363 mm (28m2 P7) - simil madera,GEN,28,"$12,000.00",1,"$14,900","$12,000",363363sm,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://www.darsie.com/15113-medium_default/m2-sl-33-c-venec-mix-aguamarina-fit-207.jpg,CERÁMICO 326 x 326 mm (24m2 P7) - Veneziano Mix Aguamarina,SAN LORENZO,24,"$13,500.00",1,"$16,700","$13,500",326326ca,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://www.puntoceramico.com.ar/284-thickbox_default/ccn-ronda-marron-38-x-38-2-cal-202-m2-c.jpg,CERÁMICO 380 x 380 mm (8m2 P1) - OUTLET - Ronda Marrón,CERRO NEGRO,8,"$10,000.00",1,"$12,400","$10,000",380380rm,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://merlinosrl.vtexassets.com/arquivos/ids/162479-800-800?v=637684602111130000&width=800&height=800&aspect=true,CERÁMICO 380 x 380 mm (6m2 P1) - OUTLET - Manaos Verde,CERRO NEGRO,6,"$10,000.00",1,"$12,400","$10,000",380380mv,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://porchelatiago.com.ar/images/productos/nacionales-cerro-negro-fenix-chocolate.jpg,CERÁMICO 380 x 380 mm (5m2 P1) - OUTLET - Fénix Marrón,CERRO NEGRO,5,"$10,000.00",1,"$12,400","$10,000",380380fm,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://cerronegro.com.ar/wp-content/uploads/2023/06/MANAOS-arena-38x38-1-600x600.jpg,CERÁMICO 380 x 380 mm (8m2 P1) - OUTLET - Natal Arena,CERRO NEGRO,8,"$10,000.00",1,"$12,400","$10,000",380380na,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://acdn-us.mitiendanube.com/stores/001/973/835/products/d_nq_np_970391-mla49910065456_052022-o-9522c3b7dd244b360e17260098912643-480-0.webp,CERÁMICO 380 x 380 mm (5.5m2 P1) - OUTLET - Salvatore Marrón,LUME,5,"$10,000.00",1,"$12,400","$10,000",380380na,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/fW5C29cP/Ceramicos.png,CERÁMICO 308 x 308 mm (6.8m2 P9) - OUTLET - beige claro y blanco,GEN,6,"$10,000.00",1,"$12,400","$10,000",308308bb,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/s1dg9Xgw/Ceramicos-(1).png,CERÁMICO 325 x 325 mm (2.8m2 P9) - OUTLET - marrón claro y amarillo,GEN,2,"$10,000.00",1,"$12,400","$10,000",325325ma,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/W3cDwXYG/Ceramicos-(2).png,CERÁMICO 326 x 326 mm (8m2 P9) - OUTLET - cuadrados símil madera,GEN,8,"$10,000.00",1,"$12,400","$10,000",326326cm,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/VL9cJ4n4/Ceramicos-(3).png,CERÁMICO 325 x 325 mm (19m2 P9) - símil adoquines negro,GEN,19,"$12,000.00",1,"$14,900","$12,000",325325sa,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/hvpbYHN3/Ceramicos-(4).png,CERÁMICO 325 x 325 mm (6m2 P9) - OUTLET - escala de grises,GEN,6,"$10,000.00",1,"$12,400","$10,000",325325eg,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/TYb3Crmh/Ceramicos-(5).png,CERÁMICO 600 x 330 mm (7m2 P9) - OUTLET - blanco liso,GEN,7,"$10,000.00",1,"$12,400","$10,000",600330bl,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/bvrJ049W/Ceramicos-(6).png,CERÁMICO 600 x 330 mm (4m2 P9) - OUTLET - beige claro y blanco,GEN,4,"$10,000.00",1,"$12,400","$10,000",600330bb,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_981914-MLA76906390294_062024-F.webp,PORCELANATO 600 x 600 mm (16m2 P2) - Portobello,NORD CEMENT,16,"$25,000.00",1,"$31,000","$25,000",600600pn,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://http2.mlstatic.com/D_NQ_NP_2X_874297-MLA92680768779_092025-F.webp,CERÁMICO 500 x 500 mm (17m2 P2) - Cordillera Cobre,CORTINES,17,"$20,000.00",1,"$24,800","$20,000",500500cc,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/tTqhNjzc/Ceramicos-(7).png,CERÁMICO 200 x 250 mm (32m2 P2) - Decorado floral,GEN,32,"$10,000.00",1,"$12,400","$10,000",200250df,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,,PORCELANATO 450 x 900 (2.5m2 P1) - VER,PORTINARI,2.5,"$18,000.00",1,"$22,300","$18,000",450900,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,,PORCELANATO 450 x 900 (1.6m2 P1) - Wanda,PORTINARI,1.6,"$18,000.00",1,"$22,300","$18,000",450900,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,https://i.postimg.cc/MHy59DQD/Ceramicos-(8).png,PORCELANATO 450 x 900 (3m2 P1) - VER,PORTINARI,3,"$18,000.00",1,"$22,300","$18,000",450900,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,ceRÁMICOS,https://i.postimg.cc/MHy59DQD/Ceramicos-(8).png,CERÁMICO GUARDA 200 x 250 (225 piezas P1),GEN,225,"$2,000.00",1,"$2,500","$2,000",450900,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,https://i.postimg.cc/ZR0KP7XD/Ceramicos-(10).png,PORCELANATO 450 x 900 (1.2m2 P1) - Concreto Beige,GEN,1.2,"$18,000.00",1,"$22,300","$18,000",450900,CEPILLO,30,9/1/2026,,1.3
-CERÁMICOS,CERÁMICOS,https://i.postimg.cc/fRpNnzFn/Ceramicos-(11).png,CERÁMICO 330 x 330 mm (4.2m2 P1) OUTLET - marrón claro,GEN,4.2,"$10,000.00",1,"$12,400","$10,000",330330mc,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_998616-MLA109362686906_042026-F.webp,PORCELANATO 580 x 1170 mm (3m2 P11) OLIMPO,CERRO NEGRO,3,"$24,000.00",1,"$29,800","$24,000",5801170O,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_662566-MLA78446787807_082024-F.webp,PORCELANATO 580 x 1170 mm (7.5m2 P11) SAVOIA,CERRO NEGRO,7.5,"$28,000.00",1,"$34,700","$28,000",5801170O,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_622918-MLA52149723315_102022-F.webp,PORCELANATO 580 x 1170 mm (7.5m2 P11) MOMA GRIS PULIDO,CERRO NEGRO,7.5,"$28,000.00",1,"$34,700","$28,000",5801170O,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_728697-MLA109214819931_032026-F.webp,PORCELANATO 580 x 1170 mm (12m2 P11) ATLAS GRIS PULIDO,CERRO NEGRO,12,"$24,000.00",1,"$29,800","$24,000",5801170O,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_687507-MLA94356946543_102025-F.webp,PORCELANATO 580 x 1170 mm (12m2 P11) MONACO CREMA PULIDO,CERRO NEGRO,12,"$28,000.00",1,"$34,700","$28,000",5801170O,CEPILLO,30,9/1/2026,,1.3
-PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_819420-MLA112992412746_072026-F.webp,PORCELANATO 580 x 1170 mm (7.5m2 P11) MOMA MARFIL,CERRO NEGRO,7.5,"$24,000.00",1,"$29,800","$24,000",5801170O,CEPILLO,30,9/1/2026,,1.3
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,https://polipluma.com.ar/wp-content/uploads/2020/05/Roma-Plus-Conjunto-001.jpg,,,,,,,,,,,,,
+LÃNEA,SUBLÃNEA,IMAGEN,DESCRIPCIÃ“N ,MARCA,STOCK,INICIAL,%,PRECIO DE LISTA,PRECIO DE CONTADO,CÃ“DIGO,PROV.,DIF,FECHA,,%
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/FHdbqdrG/page-1.png,CERÃMICO 324 x 324 mm (15m2 P8) - beige claro y gris,GEN,15,"$12,000.00",1,"$14,900","$12,000",324324bg,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/5t8B4hF8/page-2.png,CERÃMICO 326 x 326 mm (4m2 P8) - OUTLET - gris claro y gris oscuro,GEN,4,"$10,000.00",1,"$12,400","$10,000",326326gg,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/CKbGh3f8/page-3.png,CERÃMICO 326 x 326 mm (12m2 P8) - beige claro y marrÃ³n,GEN,12,"$12,000.00",1,"$14,900","$12,000",326326bm,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/NMY15d1R/page-4.png,CERÃMICO 325 x 325 mm (8m2 P8) - OUTLET - marrÃ³n rojizo y gris,GEN,8,"$10,000.00",1,"$12,400","$10,000",325325mg,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/ZRc636cw/page-5.png,CERÃMICO 325 x 325 mm (8.5m2 P8) - OUTLET - gris verdoso y gris,GEN,8.5,"$10,000.00",1,"$12,400","$10,000",325325vg,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/SRxCGj1L/page-6.png,CERÃMICO 325 x 325 mm (2.2m2 P8) - OUTLET - escala de grises,GEN,2.2,"$10,000.00",1,"$12,400","$10,000",325325eg,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/wM4J4Hny/page-7.png,CERÃMICO 358 x 358 mm (14.5m2 P8) - simil adoquines,GEN,14.5,"$12,000.00",1,"$14,900","$12,000",358358sa,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/6qpnhTbL/page-8.png,CERÃMICO 326 x 326 mm (4m2 P8) - OUTLET - durazno oscuro,GEN,4,"$10,000.00",1,"$12,400","$10,000",326326do,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/rsZWZc7S/page-9.png,CERÃMICO 325 x 325 mm (2m2 P8) - OUTLET - beige claro y marrÃ³n claro,GEN,2,"$10,000.00",1,"$12,400","$10,000",325325bm,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/xj6K1yqX/page-10.png,CERÃMICO 326 x 326 mm (4m2 P8) - OUTLET - gris melange,GEN,4,"$10,000.00",1,"$12,400","$10,000",326326gm,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/8cXWXDxK/page-11.png,CERÃMICO 315 x 315 mm (9m2 P8) - OUTLET - beige claro y blanco,GEN,9,"$10,000.00",1,"$12,400","$10,000",315315bb,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/j2cZhLH9/page-12.png,CERÃMICO 658 x 328 mm (17.5m2 P7) - rosado pÃ¡lido y marrÃ³n claro,GEN,17.5,"$12,000.00",1,"$14,900","$12,000",658328rm,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/hj9CfCfz/page-13.png,CERÃMICO 364 x 364 mm (19m2 P7) - gris claro y blanco,GEN,19,"$12,000.00",1,"$14,900","$12,000",364364gb,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/8c4tbjdg/page-14.png,CERÃMICO 364 x 364 mm (13.5m2 P7) - beige claro melange,GEN,13.5,"$12,000.00",1,"$14,900","$12,000",364364bm,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/MZmPwrCV/page-15.png,CERÃMICO 362 x 362 mm (13.5m2 P7) - escala de grises,GEN,13.5,"$12,000.00",1,"$14,900","$12,000",362362eg,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/d3649L24/page-16.png,CERÃMICO 363 x 363 mm (28m2 P7) - simil madera,GEN,28,"$12,000.00",1,"$14,900","$12,000",363363sm,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://www.darsie.com/15113-medium_default/m2-sl-33-c-venec-mix-aguamarina-fit-207.jpg,CERÃMICO 326 x 326 mm (24m2 P7) - Veneziano Mix Aguamarina,SAN LORENZO,24,"$13,500.00",1,"$16,700","$13,500",326326ca,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://www.puntoceramico.com.ar/284-thickbox_default/ccn-ronda-marron-38-x-38-2-cal-202-m2-c.jpg,CERÃMICO 380 x 380 mm (8m2 P1) - OUTLET - Ronda MarrÃ³n,CERRO NEGRO,8,"$10,000.00",1,"$12,400","$10,000",380380rm,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://merlinosrl.vtexassets.com/arquivos/ids/162479-800-800?v=637684602111130000&width=800&height=800&aspect=true,CERÃMICO 380 x 380 mm (6m2 P1) - OUTLET - Manaos Verde,CERRO NEGRO,6,"$10,000.00",1,"$12,400","$10,000",380380mv,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://porchelatiago.com.ar/images/productos/nacionales-cerro-negro-fenix-chocolate.jpg,CERÃMICO 380 x 380 mm (5m2 P1) - OUTLET - FÃ©nix MarrÃ³n,CERRO NEGRO,5,"$10,000.00",1,"$12,400","$10,000",380380fm,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://cerronegro.com.ar/wp-content/uploads/2023/06/MANAOS-arena-38x38-1-600x600.jpg,CERÃMICO 380 x 380 mm (8m2 P1) - OUTLET - Natal Arena,CERRO NEGRO,8,"$10,000.00",1,"$12,400","$10,000",380380na,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://acdn-us.mitiendanube.com/stores/001/973/835/products/d_nq_np_970391-mla49910065456_052022-o-9522c3b7dd244b360e17260098912643-480-0.webp,CERÃMICO 380 x 380 mm (5.5m2 P1) - OUTLET - Salvatore MarrÃ³n,LUME,5,"$10,000.00",1,"$12,400","$10,000",380380na,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/fW5C29cP/Ceramicos.png,CERÃMICO 308 x 308 mm (6.8m2 P9) - OUTLET - beige claro y blanco,GEN,6,"$10,000.00",1,"$12,400","$10,000",308308bb,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/s1dg9Xgw/Ceramicos-(1).png,CERÃMICO 325 x 325 mm (2.8m2 P9) - OUTLET - marrÃ³n claro y amarillo,GEN,2,"$10,000.00",1,"$12,400","$10,000",325325ma,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/W3cDwXYG/Ceramicos-(2).png,CERÃMICO 326 x 326 mm (8m2 P9) - OUTLET - cuadrados sÃ­mil madera,GEN,8,"$10,000.00",1,"$12,400","$10,000",326326cm,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/VL9cJ4n4/Ceramicos-(3).png,CERÃMICO 325 x 325 mm (19m2 P9) - sÃ­mil adoquines negro,GEN,19,"$12,000.00",1,"$14,900","$12,000",325325sa,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/hvpbYHN3/Ceramicos-(4).png,CERÃMICO 325 x 325 mm (6m2 P9) - OUTLET - escala de grises,GEN,6,"$10,000.00",1,"$12,400","$10,000",325325eg,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/TYb3Crmh/Ceramicos-(5).png,CERÃMICO 600 x 330 mm (7m2 P9) - OUTLET - blanco liso,GEN,7,"$10,000.00",1,"$12,400","$10,000",600330bl,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/bvrJ049W/Ceramicos-(6).png,CERÃMICO 600 x 330 mm (4m2 P9) - OUTLET - beige claro y blanco,GEN,4,"$10,000.00",1,"$12,400","$10,000",600330bb,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_981914-MLA76906390294_062024-F.webp,PORCELANATO 600 x 600 mm (16m2 P2) - Portobello,NORD CEMENT,16,"$25,000.00",1,"$31,000","$25,000",600600pn,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://http2.mlstatic.com/D_NQ_NP_2X_874297-MLA92680768779_092025-F.webp,CERÃMICO 500 x 500 mm (17m2 P2) - Cordillera Cobre,CORTINES,17,"$20,000.00",1,"$24,800","$20,000",500500cc,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/tTqhNjzc/Ceramicos-(7).png,CERÃMICO 200 x 250 mm (32m2 P2) - Decorado floral,GEN,32,"$10,000.00",1,"$12,400","$10,000",200250df,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,,PORCELANATO 450 x 900 (2.5m2 P1) - VER,PORTINARI,2.5,"$18,000.00",1,"$22,300","$18,000",450900,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,,PORCELANATO 450 x 900 (1.6m2 P1) - Wanda,PORTINARI,1.6,"$18,000.00",1,"$22,300","$18,000",450900,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,https://i.postimg.cc/MHy59DQD/Ceramicos-(8).png,PORCELANATO 450 x 900 (3m2 P1) - VER,PORTINARI,3,"$18,000.00",1,"$22,300","$18,000",450900,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,ceRÃMICOS,https://i.postimg.cc/MHy59DQD/Ceramicos-(8).png,CERÃMICO GUARDA 200 x 250 (225 piezas P1),GEN,225,"$2,000.00",1,"$2,500","$2,000",450900,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,https://i.postimg.cc/ZR0KP7XD/Ceramicos-(10).png,PORCELANATO 450 x 900 (1.2m2 P1) - Concreto Beige,GEN,1.2,"$18,000.00",1,"$22,300","$18,000",450900,CEPILLO,30,1/9/2026,,1.3
+CERÃMICOS,CERÃMICOS,https://i.postimg.cc/fRpNnzFn/Ceramicos-(11).png,CERÃMICO 330 x 330 mm (4.2m2 P1) OUTLET - marrÃ³n claro,GEN,4.2,"$10,000.00",1,"$12,400","$10,000",330330mc,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_998616-MLA109362686906_042026-F.webp,PORCELANATO 580 x 1170 mm (3m2 P11) OLIMPO,CERRO NEGRO,3,"$24,000.00",1,"$29,800","$24,000",5801170O,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_662566-MLA78446787807_082024-F.webp,PORCELANATO 580 x 1170 mm (7.5m2 P11) SAVOIA,CERRO NEGRO,7.5,"$28,000.00",1,"$34,700","$28,000",5801170O,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_622918-MLA52149723315_102022-F.webp,PORCELANATO 580 x 1170 mm (7.5m2 P11) MOMA GRIS PULIDO,CERRO NEGRO,7.5,"$28,000.00",1,"$34,700","$28,000",5801170O,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_728697-MLA109214819931_032026-F.webp,PORCELANATO 580 x 1170 mm (12m2 P11) ATLAS GRIS PULIDO,CERRO NEGRO,12,"$24,000.00",1,"$29,800","$24,000",5801170O,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_687507-MLA94356946543_102025-F.webp,PORCELANATO 580 x 1170 mm (12m2 P11) MONACO CREMA PULIDO,CERRO NEGRO,12,"$28,000.00",1,"$34,700","$28,000",5801170O,CEPILLO,30,1/9/2026,,1.3
+PORCELANATOS,PORCELANATO,https://http2.mlstatic.com/D_NQ_NP_2X_819420-MLA112992412746_072026-F.webp,PORCELANATO 580 x 1170 mm (7.5m2 P11) MOMA MARFIL,CERRO NEGRO,7.5,"$24,000.00",1,"$29,800","$24,000",5801170O,CEPILLO,30,1/9/2026,,1.3
